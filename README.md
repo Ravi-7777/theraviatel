@@ -1,2 +1,2 @@
-# theraviatel
+# theravipatel
 My website code
